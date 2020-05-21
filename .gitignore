@@ -1,5 +1,4 @@
 ## Meaning comment ##
 # 1 hastag = Have file .gitignore in folder
 ## 2 hastag = this is comment.
-*.md
 deploy.php
