@@ -1,6 +1,7 @@
 <?php
 	// The commands
 	$commands = array(
+		'whoami',
 		'git pull',
 		'git status',
 	);
