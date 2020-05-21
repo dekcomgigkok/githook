@@ -1,7 +1,7 @@
 <?php
 	// The commands
 	$commands = array(
-		'git pull -f',
+		'git pull',
 		'git status',
 	);
 
