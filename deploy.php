@@ -11,8 +11,8 @@
 		// Run it
 		$tmp = shell_exec($command);
 		// Output
-		$output .= "{$command}\n";
-		$output .= htmlentities(trim($tmp)) . "\n";
+		$output .= "{$command} <br/>";
+		$output .= htmlentities(trim($tmp)) . "<br/>";
 	}
 	echo $output;
 ?>
